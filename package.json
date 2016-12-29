@@ -6,7 +6,7 @@
   "repository": "martinvd/strict-uri-encode-cli",
   "author": {
     "name": "Martin van Driel",
-    "email": "martinvdpub@gmail.com",
+    "email": "martinvd@gmail.com",
     "url": "martinvandriel.com"
   },
   "bin": {
