@@ -7,7 +7,7 @@
   "author": {
     "name": "Martin van Driel",
     "email": "martinvd@gmail.com",
-    "url": "martinvandriel.com"
+    "url": "http://martinvandriel.com"
   },
   "bin": {
     "strict-uri-encode": "cli.js"
